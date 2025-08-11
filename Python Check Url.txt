@@ -1,0 +1,1 @@
+เช็คชื่อบริษัท url จากไฟล์ checkCompanyNameWithUrl ถ้าตรง ต่อไป check checkTermsOfUse ถ้าถูก ก็ check email phone
